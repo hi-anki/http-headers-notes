@@ -130,3 +130,7 @@ It indicates client to remove all the browsing data of certain types (cookies, s
 | storage | remove all DOM storage | `clear-site-data: "storage"` |
 | executionContext | the client should reload all browsing contexts for the origin of the response | `clear-site-data: "executionContext"` |
 | * | remove everything | `clear-site-data: "*"` |
+
+# References
++ [HTTP Headers, MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
++ ChatGPT
